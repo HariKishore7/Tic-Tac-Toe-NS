@@ -1,1 +1,1 @@
-<?php include_once('Tic-Tac-Toe.html'); ?> 
+<?php include_once('Tic-Tac-Toe.html'); ?>
